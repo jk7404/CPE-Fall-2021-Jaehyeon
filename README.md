@@ -1,4 +1,4 @@
-# CPE-project
+#  CPE-Fall-2021-Jaehyeon
 
 Set of games for M5Stack Core2 and Unity
 
