@@ -6,4 +6,4 @@ Set of games for M5Stack Core2 and Unity
 
 FindThisShape: Find how many [circle/triangle/rectangle]s are there in [9] random shapes
 
-<fileName>: Avoid Falling Object from the Sky
+<Avoid Falling Object from the Sky>: Avoid Falling Object from the Sky by controlling the character in x directions using M5Stack Core2
